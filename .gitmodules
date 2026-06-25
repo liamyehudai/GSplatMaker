@@ -1,0 +1,3 @@
+[submodule "opensplat"]
+	path = opensplat
+	url = https://github.com/pierotofy/opensplat.git
